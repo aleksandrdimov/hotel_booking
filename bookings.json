@@ -1,0 +1,4202 @@
+[
+    {
+        "id": 77072,
+        "name": "Barnebas Pfeffle",
+        "phone": "866-159-8491",
+        "email": "bpfeffle0@squidoo.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 10
+        },
+        "start": "2023-11-22",
+        "duration": 8,
+        "timed": false,
+        "height": 69,
+        "type": "booked",
+        "roomDetails": {
+            "id": 2,
+            "name": "Premier Suite"
+        },
+        "end": "2023-11-30"
+    },
+    {
+        "id": 27514,
+        "name": "Cobbie Pordall",
+        "phone": "295-288-5460",
+        "email": "cpordall1@wordpress.org",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 6,
+            "children": 0
+        },
+        "start": "2023-11-28",
+        "duration": 9,
+        "timed": true,
+        "height": 37,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Superior Room"
+        },
+        "end": "2023-12-06"
+    },
+    {
+        "id": 384733,
+        "name": "Josephina Sooper",
+        "phone": "345-362-5902",
+        "email": "jsooper2@rambler.ru",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 2,
+            "children": 7
+        },
+        "start": "2023-11-22",
+        "duration": 8,
+        "timed": false,
+        "height": 99,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Grand Executive"
+        },
+        "end": "2023-11-27"
+    },
+    {
+        "id": 554481,
+        "name": "Brice Ellissen",
+        "phone": "921-303-8881",
+        "email": "bellissen3@yandex.ru",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 9,
+            "children": 6
+        },
+        "start": "2023-11-24",
+        "duration": 7,
+        "timed": true,
+        "height": 44,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Suite Luxury"
+        },
+        "end": "2023-12-01"
+    },
+    {
+        "id": 18374,
+        "name": "Lemmie Isaak",
+        "phone": "720-568-1938",
+        "email": "lisaak4@plala.or.jp",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 4,
+            "children": 4
+        },
+        "start": "2023-11-22",
+        "duration": 6,
+        "timed": false,
+        "height": 46,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Suite Classic Room"
+        },
+        "end": "2023-11-30"
+    },
+    {
+        "id": 113928,
+        "name": "Jeromy Labden",
+        "phone": "600-691-5216",
+        "email": "jlabden5@ft.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 4
+        },
+        "start": "2023-12-08",
+        "duration": 7,
+        "timed": false,
+        "height": 16,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Presidential Suite"
+        },
+        "end": "2023-12-13"
+    },
+    {
+        "id": 840634,
+        "name": "Codie Janaway",
+        "phone": "498-532-4000",
+        "email": "cjanaway6@google.cn",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 0,
+            "children": 7
+        },
+        "start": "2023-12-14",
+        "duration": 4,
+        "timed": true,
+        "height": 58,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Elegant Suite"
+        },
+        "end": "2023-12-22"
+    },
+    {
+        "id": 921339,
+        "name": "Benita McCalister",
+        "phone": "431-554-0954",
+        "email": "bmccalister7@huffingtonpost.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 5,
+            "children": 0
+        },
+        "start": "2023-12-17",
+        "duration": 5,
+        "timed": true,
+        "height": 72,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Signature Room"
+        },
+        "end": "2023-12-20"
+    },
+    {
+        "id": 87822,
+        "name": "Elwira Fern",
+        "phone": "588-687-9073",
+        "email": "efern8@cbsnews.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 9,
+            "children": 4
+        },
+        "start": "2023-12-25",
+        "duration": 9,
+        "timed": false,
+        "height": 24,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Panoramic Suite"
+        },
+        "end": "2023-12-31"
+    },
+    {
+        "id": 682014,
+        "name": "Averell Ffrench",
+        "phone": "349-812-9721",
+        "email": "affrench9@earthlink.net",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 3,
+            "children": 2
+        },
+        "start": "2023-12-03",
+        "duration": 9,
+        "timed": true,
+        "height": 99,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Boutique Room"
+        },
+        "end": "2023-12-07"
+    },
+    {
+        "id": 18475,
+        "name": "Darin Hadley",
+        "phone": "520-190-6131",
+        "email": "dhadleya@linkedin.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 7,
+            "children": 8
+        },
+        "start": "2023-12-08",
+        "duration": 0,
+        "timed": true,
+        "height": 9,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2023-12-14"
+    },
+    {
+        "id": 211261,
+        "name": "Lodovico Ghidini",
+        "phone": "331-897-6235",
+        "email": "lghidinib@ezinearticles.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 9
+        },
+        "start": "2023-11-25",
+        "duration": 9,
+        "timed": false,
+        "height": 20,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Penthouse Suite"
+        },
+        "end": "2023-11-28"
+    },
+    {
+        "id": 849727,
+        "name": "Yvor Flintuff",
+        "phone": "966-638-7415",
+        "email": "yflintuffc@vkontakte.ru",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 3,
+            "children": 0
+        },
+        "start": "2023-12-15",
+        "duration": 6,
+        "timed": false,
+        "height": 6,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2023-12-18"
+    },
+    {
+        "id": 34875,
+        "name": "Bowie O'Corhane",
+        "phone": "901-336-8921",
+        "email": "bocorhaned@blogger.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 3,
+            "children": 3
+        },
+        "start": "2024-01-06",
+        "duration": 7,
+        "timed": true,
+        "height": 39,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Premier Suite"
+        },
+        "end": "2024-01-10"
+    },
+    {
+        "id": 484524,
+        "name": "Marline Ebdin",
+        "phone": "158-515-2582",
+        "email": "mebdine@yelp.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 1,
+            "children": 3
+        },
+        "start": "2024-01-17",
+        "duration": 10,
+        "timed": false,
+        "height": 26,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Superior Room"
+        },
+        "end": "2024-01-24"
+    },
+    {
+        "id": 245667,
+        "name": "Randal Nannini",
+        "phone": "619-269-8022",
+        "email": "rnanninif@home.pl",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 8,
+            "children": 5
+        },
+        "start": "2024-01-30",
+        "duration": 6,
+        "timed": false,
+        "height": 78,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Grand Executive"
+        },
+        "end": "2024-02-02"
+    },
+    {
+        "id": 248477,
+        "name": "Gerta Fateley",
+        "phone": "442-726-3523",
+        "email": "gfateleyg@canalblog.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 0,
+            "children": 10
+        },
+        "start": "2023-12-04",
+        "duration": 2,
+        "timed": false,
+        "height": 35,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Suite Luxury"
+        },
+        "end": "2023-12-06"
+    },
+    {
+        "id": 259490,
+        "name": "Karla Newbold",
+        "phone": "836-430-2867",
+        "email": "knewboldh@oracle.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 5,
+            "children": 2
+        },
+        "start": "2024-02-05",
+        "duration": 5,
+        "timed": false,
+        "height": 80,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-02-13"
+    },
+    {
+        "id": 406074,
+        "name": "Vern Wheildon",
+        "phone": "555-939-3513",
+        "email": "vwheildoni@cnn.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 2,
+            "children": 0
+        },
+        "start": "2023-12-23",
+        "duration": 9,
+        "timed": false,
+        "height": 65,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Presidential Suite"
+        },
+        "end": "2023-12-26"
+    },
+    {
+        "id": 711401,
+        "name": "Dionisio Lepard",
+        "phone": "834-439-0287",
+        "email": "dlepardj@bbb.org",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 5,
+            "children": 1
+        },
+        "start": "2023-12-02",
+        "duration": 0,
+        "timed": false,
+        "height": 59,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Elegant Suite"
+        },
+        "end": "2023-12-08"
+    },
+    {
+        "id": 628223,
+        "name": "Kai McGrann",
+        "phone": "439-489-6827",
+        "email": "kmcgrannk@bloglovin.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 3,
+            "children": 8
+        },
+        "start": "2023-12-14",
+        "duration": 1,
+        "timed": true,
+        "height": 62,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Signature Room"
+        },
+        "end": "2023-12-17"
+    },
+    {
+        "id": 947259,
+        "name": "Hanni Hanhard",
+        "phone": "897-376-6810",
+        "email": "hhanhardl@liveinternet.ru",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 9,
+            "children": 3
+        },
+        "start": "2023-12-04",
+        "duration": 9,
+        "timed": true,
+        "height": 33,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Panoramic Suite"
+        },
+        "end": "2023-12-10"
+    },
+    {
+        "id": 841807,
+        "name": "Tannie Stodhart",
+        "phone": "632-614-2248",
+        "email": "tstodhartm@flickr.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 9,
+            "children": 5
+        },
+        "start": "2024-02-14",
+        "duration": 6,
+        "timed": false,
+        "height": 84,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Boutique Room"
+        },
+        "end": "2024-02-19"
+    },
+    {
+        "id": 744059,
+        "name": "Hort Punyer",
+        "phone": "363-400-3009",
+        "email": "hpunyern@java.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 5
+        },
+        "start": "2023-12-18",
+        "duration": 6,
+        "timed": false,
+        "height": 37,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2023-12-20"
+    },
+    {
+        "id": 370778,
+        "name": "Jessika Elies",
+        "phone": "990-225-6551",
+        "email": "jelieso@wired.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 6,
+            "children": 10
+        },
+        "start": "2024-02-27",
+        "duration": 0,
+        "timed": false,
+        "height": 22,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-03-01"
+    },
+    {
+        "id": 583431,
+        "name": "Nicoli Ganford",
+        "phone": "386-800-0631",
+        "email": "nganfordp@mashable.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 6
+        },
+        "start": "2023-12-27",
+        "duration": 9,
+        "timed": true,
+        "height": 8,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-01-03"
+    },
+    {
+        "id": 536131,
+        "name": "Bondon Duns",
+        "phone": "233-431-9839",
+        "email": "bdunsq@pinterest.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 8
+        },
+        "start": "2023-12-31",
+        "duration": 3,
+        "timed": false,
+        "height": 87,
+        "type": "booked",
+        "roomDetails": {
+            "id": 2,
+            "name": "Premier Suite"
+        },
+        "end": "2024-01-04"
+    },
+    {
+        "id": 301408,
+        "name": "Benyamin Sexton",
+        "phone": "944-653-9589",
+        "email": "bsextonr@gov.uk",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 2
+        },
+        "start": "2023-12-26",
+        "duration": 5,
+        "timed": false,
+        "height": 20,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Superior Room"
+        },
+        "end": "2023-12-31"
+    },
+    {
+        "id": 552381,
+        "name": "Cordy Scotchforth",
+        "phone": "344-318-6848",
+        "email": "cscotchforths@edublogs.org",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 7,
+            "children": 7
+        },
+        "start": "2023-12-07",
+        "duration": 5,
+        "timed": true,
+        "height": 55,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Grand Executive"
+        },
+        "end": "2023-12-11"
+    },
+    {
+        "id": 492499,
+        "name": "Solomon Pidcock",
+        "phone": "363-257-5230",
+        "email": "spidcockt@amazon.de",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 1,
+            "children": 2
+        },
+        "start": "2024-01-02",
+        "duration": 4,
+        "timed": true,
+        "height": 22,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-01-09"
+    },
+    {
+        "id": 950885,
+        "name": "Koenraad Gillie",
+        "phone": "817-241-1259",
+        "email": "kgillieu@ucsd.edu",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 0,
+            "children": 6
+        },
+        "start": "2023-12-18",
+        "duration": 9,
+        "timed": false,
+        "height": 52,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Suite Classic Room"
+        },
+        "end": "2023-12-19"
+    },
+    {
+        "id": 236620,
+        "name": "Aldous Hamflett",
+        "phone": "654-503-7185",
+        "email": "ahamflettv@nationalgeographic.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 9,
+            "children": 9
+        },
+        "start": "2024-01-11",
+        "duration": 8,
+        "timed": false,
+        "height": 96,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-01-15"
+    },
+    {
+        "id": 95167,
+        "name": "Field Barthelme",
+        "phone": "721-574-0266",
+        "email": "fbarthelmew@hatena.ne.jp",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 2,
+            "children": 6
+        },
+        "start": "2024-01-16",
+        "duration": 0,
+        "timed": false,
+        "height": 32,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-01-17"
+    },
+    {
+        "id": 318833,
+        "name": "Maryanna Starton",
+        "phone": "332-121-9275",
+        "email": "mstartonx@yandex.ru",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 5,
+            "children": 0
+        },
+        "start": "2024-01-07",
+        "duration": 8,
+        "timed": false,
+        "height": 31,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Signature Room"
+        },
+        "end": "2024-01-08"
+    },
+    {
+        "id": 736559,
+        "name": "Willyt Mayler",
+        "phone": "945-745-3820",
+        "email": "wmaylery@rambler.ru",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 10,
+            "children": 0
+        },
+        "start": "2024-01-13",
+        "duration": 10,
+        "timed": true,
+        "height": 24,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-01-17"
+    },
+    {
+        "id": 552315,
+        "name": "Barrett Buckler",
+        "phone": "974-895-7774",
+        "email": "bbucklerz@dell.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 8,
+            "children": 0
+        },
+        "start": "2023-12-24",
+        "duration": 1,
+        "timed": true,
+        "height": 0,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Boutique Room"
+        },
+        "end": "2023-12-29"
+    },
+    {
+        "id": 726139,
+        "name": "Aeriell Wooller",
+        "phone": "219-284-8560",
+        "email": "awooller10@epa.gov",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 2,
+            "children": 4
+        },
+        "start": "2024-01-05",
+        "duration": 9,
+        "timed": true,
+        "height": 38,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-01-06"
+    },
+    {
+        "id": 224513,
+        "name": "Vivianne Owlner",
+        "phone": "329-274-7787",
+        "email": "vowlner11@dot.gov",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 0,
+            "children": 10
+        },
+        "start": "2024-01-09",
+        "duration": 3,
+        "timed": true,
+        "height": 16,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-01-11"
+    },
+    {
+        "id": 672175,
+        "name": "Anett Gillson",
+        "phone": "778-274-7913",
+        "email": "agillson12@squarespace.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 3,
+            "children": 2
+        },
+        "start": "2023-12-25",
+        "duration": 4,
+        "timed": false,
+        "height": 8,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Suite Luxury"
+        },
+        "end": "2023-12-27"
+    },
+    {
+        "id": 121310,
+        "name": "Dru Stapylton",
+        "phone": "279-719-0048",
+        "email": "dstapylton13@census.gov",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 6,
+            "children": 8
+        },
+        "start": "2024-01-16",
+        "duration": 0,
+        "timed": false,
+        "height": 89,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Premier Suite"
+        },
+        "end": "2024-01-17"
+    },
+    {
+        "id": 978082,
+        "name": "Augie McMarquis",
+        "phone": "518-871-6036",
+        "email": "amcmarquis14@phoca.cz",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 10,
+            "children": 2
+        },
+        "start": "2024-01-22",
+        "duration": 1,
+        "timed": false,
+        "height": 45,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Superior Room"
+        },
+        "end": "2024-01-27"
+    },
+    {
+        "id": 256705,
+        "name": "Sargent Pitkeathley",
+        "phone": "816-488-3031",
+        "email": "spitkeathley15@godaddy.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 3,
+            "children": 3
+        },
+        "start": "2024-01-02",
+        "duration": 8,
+        "timed": true,
+        "height": 1,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Grand Executive"
+        },
+        "end": "2024-01-07"
+    },
+    {
+        "id": 146739,
+        "name": "Aileen Pryer",
+        "phone": "279-502-1118",
+        "email": "apryer16@simplemachines.org",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 10,
+            "children": 8
+        },
+        "start": "2024-01-30",
+        "duration": 0,
+        "timed": true,
+        "height": 26,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-02-01"
+    },
+    {
+        "id": 974501,
+        "name": "Raychel Heaton",
+        "phone": "574-466-3965",
+        "email": "rheaton17@thetimes.co.uk",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 8,
+            "children": 4
+        },
+        "start": "2024-01-22",
+        "duration": 3,
+        "timed": true,
+        "height": 31,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-01-23"
+    },
+    {
+        "id": 568154,
+        "name": "Hoyt Wille",
+        "phone": "993-240-5349",
+        "email": "hwille18@angelfire.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 9
+        },
+        "start": "2024-01-22",
+        "duration": 3,
+        "timed": false,
+        "height": 38,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-01-29"
+    },
+    {
+        "id": 358334,
+        "name": "Gabriela Bruneau",
+        "phone": "388-154-5994",
+        "email": "gbruneau19@google.nl",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 5,
+            "children": 5
+        },
+        "start": "2024-02-06",
+        "duration": 6,
+        "timed": false,
+        "height": 70,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-02-09"
+    },
+    {
+        "id": 755013,
+        "name": "Marsiella Jenkins",
+        "phone": "384-435-8919",
+        "email": "mjenkins1a@lycos.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 7,
+            "children": 5
+        },
+        "start": "2024-02-12",
+        "duration": 3,
+        "timed": true,
+        "height": 82,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Signature Room"
+        },
+        "end": "2024-02-16"
+    },
+    {
+        "id": 273669,
+        "name": "Mikael Chesman",
+        "phone": "742-736-6178",
+        "email": "mchesman1b@1und1.de",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 9,
+            "children": 7
+        },
+        "start": "2024-01-22",
+        "duration": 9,
+        "timed": false,
+        "height": 16,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-01-26"
+    },
+    {
+        "id": 114031,
+        "name": "Burnaby Buer",
+        "phone": "267-331-8208",
+        "email": "bbuer1c@rambler.ru",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 3,
+            "children": 9
+        },
+        "start": "2024-01-13",
+        "duration": 1,
+        "timed": true,
+        "height": 96,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Boutique Room"
+        },
+        "end": "2024-01-19"
+    },
+    {
+        "id": 774441,
+        "name": "Dorri Rocca",
+        "phone": "539-261-6243",
+        "email": "drocca1d@mtv.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 5,
+            "children": 0
+        },
+        "start": "2024-01-23",
+        "duration": 7,
+        "timed": false,
+        "height": 12,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-01-29"
+    },
+    {
+        "id": 696073,
+        "name": "Jeanna Stading",
+        "phone": "359-361-8381",
+        "email": "jstading1e@reddit.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 4,
+            "children": 7
+        },
+        "start": "2024-01-29",
+        "duration": 10,
+        "timed": false,
+        "height": 47,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-02-04"
+    },
+    {
+        "id": 777021,
+        "name": "Sibley Ganders",
+        "phone": "663-995-0254",
+        "email": "sganders1f@japanpost.jp",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 10,
+            "children": 2
+        },
+        "start": "2024-01-29",
+        "duration": 9,
+        "timed": true,
+        "height": 5,
+        "type": "booked",
+        "roomDetails": {
+            "id": 2,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-02-06"
+    },
+    {
+        "id": 511399,
+        "name": "Demetri Jinda",
+        "phone": "616-488-4036",
+        "email": "djinda1g@meetup.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 10,
+            "children": 7
+        },
+        "start": "2024-02-05",
+        "duration": 2,
+        "timed": true,
+        "height": 95,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Premier Suite"
+        },
+        "end": "2024-02-09"
+    },
+    {
+        "id": 92796,
+        "name": "Gwenette Manifield",
+        "phone": "562-852-9638",
+        "email": "gmanifield1h@studiopress.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 0,
+            "children": 4
+        },
+        "start": "2024-02-06",
+        "duration": 7,
+        "timed": true,
+        "height": 35,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Superior Room"
+        },
+        "end": "2024-02-12"
+    },
+    {
+        "id": 427017,
+        "name": "Dion Jeskins",
+        "phone": "581-174-8135",
+        "email": "djeskins1i@goodreads.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 3,
+            "children": 8
+        },
+        "start": "2024-02-23",
+        "duration": 2,
+        "timed": false,
+        "height": 31,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Grand Executive"
+        },
+        "end": "2024-02-24"
+    },
+    {
+        "id": 653344,
+        "name": "Thurstan Gabites",
+        "phone": "551-989-6162",
+        "email": "tgabites1j@google.fr",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 4
+        },
+        "start": "2024-03-07",
+        "duration": 8,
+        "timed": true,
+        "height": 9,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-03-12"
+    },
+    {
+        "id": 127869,
+        "name": "Banky Kobel",
+        "phone": "646-275-7415",
+        "email": "bkobel1k@nih.gov",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 10,
+            "children": 8
+        },
+        "start": "2024-02-04",
+        "duration": 1,
+        "timed": false,
+        "height": 11,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-02-09"
+    },
+    {
+        "id": 965114,
+        "name": "Fidelity Bliven",
+        "phone": "356-447-0424",
+        "email": "fbliven1l@sitemeter.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 3,
+            "children": 6
+        },
+        "start": "2024-02-17",
+        "duration": 5,
+        "timed": true,
+        "height": 18,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-02-23"
+    },
+    {
+        "id": 216380,
+        "name": "Matthew Rylett",
+        "phone": "434-167-9124",
+        "email": "mrylett1m@freewebs.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 9,
+            "children": 3
+        },
+        "start": "2024-02-26",
+        "duration": 9,
+        "timed": false,
+        "height": 7,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-02-28"
+    },
+    {
+        "id": 583492,
+        "name": "Berni Berdale",
+        "phone": "216-174-8284",
+        "email": "bberdale1n@redcross.org",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 7,
+            "children": 3
+        },
+        "start": "2024-03-13",
+        "duration": 10,
+        "timed": false,
+        "height": 32,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Signature Room"
+        },
+        "end": "2024-03-17"
+    },
+    {
+        "id": 918198,
+        "name": "Jandy Latta",
+        "phone": "869-525-9422",
+        "email": "jlatta1o@oaic.gov.au",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 10,
+            "children": 9
+        },
+        "start": "2024-03-24",
+        "duration": 2,
+        "timed": false,
+        "height": 14,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-03-29"
+    },
+    {
+        "id": 683589,
+        "name": "Sibylla Ginnell",
+        "phone": "137-264-0791",
+        "email": "sginnell1p@forbes.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 6,
+            "children": 8
+        },
+        "start": "2024-03-03",
+        "duration": 0,
+        "timed": false,
+        "height": 44,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Boutique Room"
+        },
+        "end": "2024-03-09"
+    },
+    {
+        "id": 389623,
+        "name": "Page Sharman",
+        "phone": "754-482-9456",
+        "email": "psharman1q@ameblo.jp",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 8,
+            "children": 4
+        },
+        "start": "2024-02-08",
+        "duration": 5,
+        "timed": true,
+        "height": 47,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-02-10"
+    },
+    {
+        "id": 516803,
+        "name": "Eward Barron",
+        "phone": "765-238-4326",
+        "email": "ebarron1r@netscape.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 7,
+            "children": 8
+        },
+        "start": "2024-02-11",
+        "duration": 5,
+        "timed": false,
+        "height": 12,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-02-16"
+    },
+    {
+        "id": 713441,
+        "name": "Hephzibah Pilley",
+        "phone": "876-958-1545",
+        "email": "hpilley1s@comcast.net",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 8,
+            "children": 10
+        },
+        "start": "2024-02-29",
+        "duration": 2,
+        "timed": true,
+        "height": 44,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-03-07"
+    },
+    {
+        "id": 939806,
+        "name": "Martynne Lettuce",
+        "phone": "317-969-4814",
+        "email": "mlettuce1t@hp.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 7,
+            "children": 7
+        },
+        "start": "2024-03-09",
+        "duration": 4,
+        "timed": true,
+        "height": 38,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Premier Suite"
+        },
+        "end": "2024-03-14"
+    },
+    {
+        "id": 254026,
+        "name": "Walliw Penney",
+        "phone": "872-707-5254",
+        "email": "wpenney1u@sbwire.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 8,
+            "children": 6
+        },
+        "start": "2024-03-18",
+        "duration": 9,
+        "timed": false,
+        "height": 58,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Superior Room"
+        },
+        "end": "2024-03-20"
+    },
+    {
+        "id": 969194,
+        "name": "Carmella Randales",
+        "phone": "363-550-9259",
+        "email": "crandales1v@hibu.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 2,
+            "children": 3
+        },
+        "start": "2024-04-03",
+        "duration": 6,
+        "timed": false,
+        "height": 88,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Grand Executive"
+        },
+        "end": "2024-04-11"
+    },
+    {
+        "id": 371726,
+        "name": "Lisle Flade",
+        "phone": "616-301-1883",
+        "email": "lflade1w@shareasale.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 1,
+            "children": 10
+        },
+        "start": "2024-02-16",
+        "duration": 10,
+        "timed": true,
+        "height": 51,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-02-21"
+    },
+    {
+        "id": 803371,
+        "name": "Aguste Badham",
+        "phone": "357-109-8997",
+        "email": "abadham1x@globo.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 1,
+            "children": 1
+        },
+        "start": "2024-02-12",
+        "duration": 6,
+        "timed": false,
+        "height": 76,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-02-13"
+    },
+    {
+        "id": 612502,
+        "name": "Yard Jorgensen",
+        "phone": "282-174-6694",
+        "email": "yjorgensen1y@purevolume.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 9,
+            "children": 1
+        },
+        "start": "2024-02-17",
+        "duration": 0,
+        "timed": true,
+        "height": 69,
+        "type": "booked",
+        "roomDetails": {
+            "id": 2,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-02-22"
+    },
+    {
+        "id": 623917,
+        "name": "Doe Backson",
+        "phone": "375-695-0284",
+        "email": "dbackson1z@hubpages.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 2,
+            "children": 2
+        },
+        "start": "2024-04-13",
+        "duration": 6,
+        "timed": false,
+        "height": 95,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-04-15"
+    },
+    {
+        "id": 323908,
+        "name": "Wally Shorbrook",
+        "phone": "718-427-1138",
+        "email": "wshorbrook20@sciencedaily.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 9
+        },
+        "start": "2024-04-22",
+        "duration": 4,
+        "timed": false,
+        "height": 26,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Signature Room"
+        },
+        "end": "2024-04-24"
+    },
+    {
+        "id": 507270,
+        "name": "Celka Dewan",
+        "phone": "439-212-1824",
+        "email": "cdewan21@hexun.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 7,
+            "children": 3
+        },
+        "start": "2024-02-18",
+        "duration": 10,
+        "timed": false,
+        "height": 64,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-02-20"
+    },
+    {
+        "id": 134795,
+        "name": "Dolorita Melhuish",
+        "phone": "501-435-3659",
+        "email": "dmelhuish22@webmd.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 8
+        },
+        "start": "2024-02-25",
+        "duration": 4,
+        "timed": true,
+        "height": 84,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Boutique Room"
+        },
+        "end": "2024-02-26"
+    },
+    {
+        "id": 356496,
+        "name": "Merle Grunnill",
+        "phone": "832-210-2184",
+        "email": "mgrunnill23@chicagotribune.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 4
+        },
+        "start": "2024-04-27",
+        "duration": 4,
+        "timed": false,
+        "height": 33,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-05-04"
+    },
+    {
+        "id": 814796,
+        "name": "Lanny Swin",
+        "phone": "842-909-4208",
+        "email": "lswin24@live.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 6,
+            "children": 6
+        },
+        "start": "2024-05-12",
+        "duration": 10,
+        "timed": false,
+        "height": 1,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-05-18"
+    },
+    {
+        "id": 277805,
+        "name": "Jard Schulze",
+        "phone": "450-317-3590",
+        "email": "jschulze25@163.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 10,
+            "children": 10
+        },
+        "start": "2024-03-05",
+        "duration": 0,
+        "timed": false,
+        "height": 12,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-03-09"
+    },
+    {
+        "id": 175078,
+        "name": "Louisa Sorel",
+        "phone": "577-605-0918",
+        "email": "lsorel26@shareasale.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 6,
+            "children": 6
+        },
+        "start": "2024-02-25",
+        "duration": 8,
+        "timed": true,
+        "height": 84,
+        "type": "booked",
+        "roomDetails": {
+            "id": 2,
+            "name": "Premier Suite"
+        },
+        "end": "2024-03-02"
+    },
+    {
+        "id": 976775,
+        "name": "Zolly Feasby",
+        "phone": "884-184-7013",
+        "email": "zfeasby27@last.fm",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 7,
+            "children": 6
+        },
+        "start": "2024-02-26",
+        "duration": 8,
+        "timed": true,
+        "height": 39,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Superior Room"
+        },
+        "end": "2024-02-29"
+    },
+    {
+        "id": 311788,
+        "name": "Hestia Burgise",
+        "phone": "943-829-6785",
+        "email": "hburgise28@patch.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 7,
+            "children": 3
+        },
+        "start": "2024-03-10",
+        "duration": 2,
+        "timed": true,
+        "height": 35,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Grand Executive"
+        },
+        "end": "2024-03-13"
+    },
+    {
+        "id": 976061,
+        "name": "Madlen Baish",
+        "phone": "166-475-4691",
+        "email": "mbaish29@bbb.org",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 9,
+            "children": 6
+        },
+        "start": "2024-03-13",
+        "duration": 5,
+        "timed": false,
+        "height": 30,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-03-18"
+    },
+    {
+        "id": 710048,
+        "name": "Tabbitha MacParland",
+        "phone": "241-424-2692",
+        "email": "tmacparland2a@kickstarter.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 9,
+            "children": 2
+        },
+        "start": "2024-03-16",
+        "duration": 5,
+        "timed": true,
+        "height": 86,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-03-20"
+    },
+    {
+        "id": 617150,
+        "name": "Halley Sheavills",
+        "phone": "418-997-5804",
+        "email": "hsheavills2b@youku.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 9,
+            "children": 7
+        },
+        "start": "2024-03-14",
+        "duration": 4,
+        "timed": false,
+        "height": 43,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-03-20"
+    },
+    {
+        "id": 606108,
+        "name": "Rosalinda Knoton",
+        "phone": "157-507-8399",
+        "email": "rknoton2c@simplemachines.org",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 3,
+            "children": 8
+        },
+        "start": "2024-03-28",
+        "duration": 7,
+        "timed": true,
+        "height": 57,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-03-29"
+    },
+    {
+        "id": 229301,
+        "name": "Whitman Barrs",
+        "phone": "654-940-8216",
+        "email": "wbarrs2d@about.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 4,
+            "children": 3
+        },
+        "start": "2024-04-05",
+        "duration": 1,
+        "timed": true,
+        "height": 51,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Signature Room"
+        },
+        "end": "2024-04-11"
+    },
+    {
+        "id": 126589,
+        "name": "Lenee Champneys",
+        "phone": "626-327-8845",
+        "email": "lchampneys2e@nationalgeographic.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 1,
+            "children": 9
+        },
+        "start": "2024-03-22",
+        "duration": 2,
+        "timed": true,
+        "height": 35,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-03-30"
+    },
+    {
+        "id": 661916,
+        "name": "Nerty Klement",
+        "phone": "584-824-9403",
+        "email": "nklement2f@bravesites.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 4,
+            "children": 9
+        },
+        "start": "2024-03-21",
+        "duration": 6,
+        "timed": true,
+        "height": 13,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Boutique Room"
+        },
+        "end": "2024-03-26"
+    },
+    {
+        "id": 367121,
+        "name": "Garvy Syversen",
+        "phone": "960-874-1128",
+        "email": "gsyversen2g@51.la",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 1,
+            "children": 2
+        },
+        "start": "2024-05-21",
+        "duration": 2,
+        "timed": true,
+        "height": 66,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-05-27"
+    },
+    {
+        "id": 650051,
+        "name": "Cornelle Beddin",
+        "phone": "113-375-9221",
+        "email": "cbeddin2h@princeton.edu",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 2,
+            "children": 5
+        },
+        "start": "2024-03-21",
+        "duration": 2,
+        "timed": false,
+        "height": 17,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-03-26"
+    },
+    {
+        "id": 381080,
+        "name": "Emelda Collar",
+        "phone": "841-357-4828",
+        "email": "ecollar2i@geocities.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 7,
+            "children": 3
+        },
+        "start": "2024-04-01",
+        "duration": 3,
+        "timed": false,
+        "height": 60,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-04-07"
+    },
+    {
+        "id": 161905,
+        "name": "Scarface Dassindale",
+        "phone": "529-346-1468",
+        "email": "sdassindale2j@google.ca",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 3,
+            "children": 4
+        },
+        "start": "2024-04-11",
+        "duration": 9,
+        "timed": true,
+        "height": 48,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Premier Suite"
+        },
+        "end": "2024-04-15"
+    },
+    {
+        "id": 992096,
+        "name": "Lorenza Coull",
+        "phone": "977-938-4910",
+        "email": "lcoull2k@netvibes.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 7,
+            "children": 7
+        },
+        "start": "2024-03-29",
+        "duration": 6,
+        "timed": false,
+        "height": 53,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Superior Room"
+        },
+        "end": "2024-04-02"
+    },
+    {
+        "id": 909270,
+        "name": "Charla McGinney",
+        "phone": "405-822-1777",
+        "email": "cmcginney2l@51.la",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 6,
+            "children": 9
+        },
+        "start": "2024-03-02",
+        "duration": 7,
+        "timed": true,
+        "height": 49,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Grand Executive"
+        },
+        "end": "2024-03-08"
+    },
+    {
+        "id": 225967,
+        "name": "Elizabet Surmeyers",
+        "phone": "447-526-1287",
+        "email": "esurmeyers2m@odnoklassniki.ru",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 9,
+            "children": 2
+        },
+        "start": "2024-03-28",
+        "duration": 9,
+        "timed": false,
+        "height": 99,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-04-01"
+    },
+    {
+        "id": 502998,
+        "name": "Mitzi Vannikov",
+        "phone": "118-203-4462",
+        "email": "mvannikov2n@naver.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 0
+        },
+        "start": "2024-04-08",
+        "duration": 2,
+        "timed": false,
+        "height": 30,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-04-12"
+    },
+    {
+        "id": 844511,
+        "name": "Victoir Zammett",
+        "phone": "453-882-3232",
+        "email": "vzammett2o@yellowpages.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 0,
+            "children": 6
+        },
+        "start": "2024-06-01",
+        "duration": 2,
+        "timed": true,
+        "height": 16,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-06-04"
+    },
+    {
+        "id": 18210,
+        "name": "Jeremie Ramos",
+        "phone": "252-536-6965",
+        "email": "jramos2p@prlog.org",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 10
+        },
+        "start": "2024-04-14",
+        "duration": 2,
+        "timed": true,
+        "height": 20,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-04-16"
+    },
+    {
+        "id": 29997,
+        "name": "Olenka Lillywhite",
+        "phone": "627-564-2231",
+        "email": "olillywhite2q@google.pl",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 1,
+            "children": 3
+        },
+        "start": "2024-04-21",
+        "duration": 7,
+        "timed": true,
+        "height": 42,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Signature Room"
+        },
+        "end": "2024-04-28"
+    },
+    {
+        "id": 990036,
+        "name": "Vina Langabeer",
+        "phone": "853-218-7632",
+        "email": "vlangabeer2r@drupal.org",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 9,
+            "children": 2
+        },
+        "start": "2024-04-17",
+        "duration": 6,
+        "timed": true,
+        "height": 25,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-04-25"
+    },
+    {
+        "id": 290597,
+        "name": "Windham Fair",
+        "phone": "352-634-1536",
+        "email": "wfair2s@toplist.cz",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 1,
+            "children": 8
+        },
+        "start": "2024-04-09",
+        "duration": 5,
+        "timed": true,
+        "height": 97,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Boutique Room"
+        },
+        "end": "2024-04-10"
+    },
+    {
+        "id": 958236,
+        "name": "Arlin De Giorgis",
+        "phone": "958-241-4498",
+        "email": "ade2t@vimeo.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 9,
+            "children": 8
+        },
+        "start": "2024-04-17",
+        "duration": 6,
+        "timed": true,
+        "height": 2,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-04-18"
+    },
+    {
+        "id": 940989,
+        "name": "Lancelot Vonderdell",
+        "phone": "261-957-9081",
+        "email": "lvonderdell2u@networkadvertising.org",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 0,
+            "children": 2
+        },
+        "start": "2024-03-13",
+        "duration": 4,
+        "timed": true,
+        "height": 57,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-03-21"
+    },
+    {
+        "id": 256222,
+        "name": "Willabella Wyd",
+        "phone": "934-875-0511",
+        "email": "wwyd2v@uiuc.edu",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 4,
+            "children": 4
+        },
+        "start": "2024-06-06",
+        "duration": 0,
+        "timed": true,
+        "height": 52,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-06-12"
+    },
+    {
+        "id": 13120,
+        "name": "Rafi Besque",
+        "phone": "616-178-0082",
+        "email": "rbesque2w@twitpic.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 1
+        },
+        "start": "2024-04-27",
+        "duration": 5,
+        "timed": true,
+        "height": 79,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Premier Suite"
+        },
+        "end": "2024-04-30"
+    },
+    {
+        "id": 318471,
+        "name": "Barb Chestnutt",
+        "phone": "411-175-5115",
+        "email": "bchestnutt2x@harvard.edu",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 9,
+            "children": 8
+        },
+        "start": "2024-03-29",
+        "duration": 5,
+        "timed": true,
+        "height": 86,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Superior Room"
+        },
+        "end": "2024-04-03"
+    },
+    {
+        "id": 527213,
+        "name": "Auguste Aguilar",
+        "phone": "835-613-4974",
+        "email": "aaguilar2y@washingtonpost.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 0,
+            "children": 0
+        },
+        "start": "2024-04-19",
+        "duration": 5,
+        "timed": true,
+        "height": 88,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Grand Executive"
+        },
+        "end": "2024-04-24"
+    },
+    {
+        "id": 767642,
+        "name": "Hanna Presslee",
+        "phone": "188-649-7951",
+        "email": "hpresslee2z@rediff.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 4,
+            "children": 3
+        },
+        "start": "2024-04-05",
+        "duration": 3,
+        "timed": true,
+        "height": 3,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-04-12"
+    },
+    {
+        "id": 662780,
+        "name": "Sly Guyon",
+        "phone": "657-925-3810",
+        "email": "sguyon30@usa.gov",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 3,
+            "children": 3
+        },
+        "start": "2024-04-14",
+        "duration": 8,
+        "timed": true,
+        "height": 78,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-04-17"
+    },
+    {
+        "id": 682739,
+        "name": "Toby Winslet",
+        "phone": "693-285-0880",
+        "email": "twinslet31@naver.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 2,
+            "children": 10
+        },
+        "start": "2024-06-13",
+        "duration": 3,
+        "timed": false,
+        "height": 79,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-06-18"
+    },
+    {
+        "id": 763141,
+        "name": "Bartel Franceschelli",
+        "phone": "938-226-0986",
+        "email": "bfranceschelli32@google.it",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 5,
+            "children": 6
+        },
+        "start": "2024-06-20",
+        "duration": 8,
+        "timed": false,
+        "height": 55,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-06-23"
+    },
+    {
+        "id": 17572,
+        "name": "Francoise Dellatorre",
+        "phone": "994-104-0732",
+        "email": "fdellatorre33@soup.io",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 1,
+            "children": 5
+        },
+        "start": "2024-04-18",
+        "duration": 6,
+        "timed": true,
+        "height": 92,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Signature Room"
+        },
+        "end": "2024-04-23"
+    },
+    {
+        "id": 652149,
+        "name": "Brandais Gallimore",
+        "phone": "541-251-3419",
+        "email": "bgallimore34@hostgator.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 6,
+            "children": 9
+        },
+        "start": "2024-04-27",
+        "duration": 0,
+        "timed": true,
+        "height": 70,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-05-04"
+    },
+    {
+        "id": 827227,
+        "name": "Alia Pembery",
+        "phone": "663-867-9921",
+        "email": "apembery35@harvard.edu",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 9,
+            "children": 1
+        },
+        "start": "2024-04-23",
+        "duration": 4,
+        "timed": false,
+        "height": 13,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Boutique Room"
+        },
+        "end": "2024-05-01"
+    },
+    {
+        "id": 78196,
+        "name": "Jonathon Banner",
+        "phone": "153-132-4052",
+        "email": "jbanner36@quantcast.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 6,
+            "children": 9
+        },
+        "start": "2024-05-01",
+        "duration": 9,
+        "timed": false,
+        "height": 10,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-05-05"
+    },
+    {
+        "id": 860350,
+        "name": "Bobby Martinho",
+        "phone": "197-750-8133",
+        "email": "bmartinho37@marriott.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 3,
+            "children": 2
+        },
+        "start": "2024-05-08",
+        "duration": 2,
+        "timed": true,
+        "height": 70,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-05-16"
+    },
+    {
+        "id": 255963,
+        "name": "Danice Butson",
+        "phone": "361-273-5881",
+        "email": "dbutson38@naver.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 2,
+            "children": 0
+        },
+        "start": "2024-05-18",
+        "duration": 5,
+        "timed": true,
+        "height": 18,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-05-25"
+    },
+    {
+        "id": 923923,
+        "name": "Grete Permain",
+        "phone": "125-397-1418",
+        "email": "gpermain39@cornell.edu",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 10,
+            "children": 0
+        },
+        "start": "2024-04-29",
+        "duration": 7,
+        "timed": true,
+        "height": 58,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Premier Suite"
+        },
+        "end": "2024-05-04"
+    },
+    {
+        "id": 819603,
+        "name": "Frankie Eltone",
+        "phone": "252-515-7278",
+        "email": "feltone3a@bloomberg.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 2,
+            "children": 0
+        },
+        "start": "2024-05-07",
+        "duration": 3,
+        "timed": false,
+        "height": 0,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Superior Room"
+        },
+        "end": "2024-05-08"
+    },
+    {
+        "id": 980933,
+        "name": "Emilio Pegrum",
+        "phone": "289-844-1602",
+        "email": "epegrum3b@netlog.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 9,
+            "children": 8
+        },
+        "start": "2024-05-06",
+        "duration": 6,
+        "timed": true,
+        "height": 24,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Grand Executive"
+        },
+        "end": "2024-05-08"
+    },
+    {
+        "id": 539590,
+        "name": "Giovanni Smiley",
+        "phone": "445-374-3855",
+        "email": "gsmiley3c@etsy.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 10,
+            "children": 1
+        },
+        "start": "2024-05-27",
+        "duration": 2,
+        "timed": true,
+        "height": 31,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-06-03"
+    },
+    {
+        "id": 923363,
+        "name": "Codi Eldrett",
+        "phone": "419-551-4336",
+        "email": "celdrett3d@umn.edu",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 7,
+            "children": 0
+        },
+        "start": "2024-06-07",
+        "duration": 8,
+        "timed": false,
+        "height": 70,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-06-12"
+    },
+    {
+        "id": 693870,
+        "name": "Cassaundra Lepick",
+        "phone": "392-706-2223",
+        "email": "clepick3e@behance.net",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 2,
+            "children": 4
+        },
+        "start": "2024-05-16",
+        "duration": 8,
+        "timed": false,
+        "height": 49,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-05-17"
+    },
+    {
+        "id": 44888,
+        "name": "Edan Regorz",
+        "phone": "305-779-9347",
+        "email": "eregorz3f@scientificamerican.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 10
+        },
+        "start": "2024-05-08",
+        "duration": 5,
+        "timed": true,
+        "height": 14,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-05-14"
+    },
+    {
+        "id": 983636,
+        "name": "Cassy Matteucci",
+        "phone": "732-226-5819",
+        "email": "cmatteucci3g@ucla.edu",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 2,
+            "children": 10
+        },
+        "start": "2024-05-21",
+        "duration": 3,
+        "timed": true,
+        "height": 26,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Signature Room"
+        },
+        "end": "2024-05-24"
+    },
+    {
+        "id": 749171,
+        "name": "Blair Decruse",
+        "phone": "264-771-9404",
+        "email": "bdecruse3h@discovery.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 7,
+            "children": 9
+        },
+        "start": "2024-05-27",
+        "duration": 7,
+        "timed": true,
+        "height": 65,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-06-02"
+    },
+    {
+        "id": 781379,
+        "name": "Antoni Phelip",
+        "phone": "396-289-9632",
+        "email": "aphelip3i@sourceforge.net",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 3
+        },
+        "start": "2024-05-20",
+        "duration": 9,
+        "timed": true,
+        "height": 0,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Boutique Room"
+        },
+        "end": "2024-05-21"
+    },
+    {
+        "id": 398093,
+        "name": "Jobie Probbings",
+        "phone": "491-687-3188",
+        "email": "jprobbings3j@wix.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 4
+        },
+        "start": "2024-05-25",
+        "duration": 0,
+        "timed": false,
+        "height": 67,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-05-26"
+    },
+    {
+        "id": 463000,
+        "name": "Sarina Alders",
+        "phone": "350-982-2603",
+        "email": "salders3k@ucoz.ru",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 8,
+            "children": 8
+        },
+        "start": "2024-06-13",
+        "duration": 6,
+        "timed": false,
+        "height": 13,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-06-18"
+    },
+    {
+        "id": 962317,
+        "name": "Minna MacAlester",
+        "phone": "211-954-5078",
+        "email": "mmacalester3l@slashdot.org",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 5,
+            "children": 7
+        },
+        "start": "2024-06-25",
+        "duration": 10,
+        "timed": true,
+        "height": 41,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-06-27"
+    },
+    {
+        "id": 52935,
+        "name": "Jacinthe Dionis",
+        "phone": "335-253-5262",
+        "email": "jdionis3m@forbes.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 3,
+            "children": 1
+        },
+        "start": "2024-06-07",
+        "duration": 1,
+        "timed": true,
+        "height": 21,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Premier Suite"
+        },
+        "end": "2024-06-15"
+    },
+    {
+        "id": 405266,
+        "name": "Lorita Stobbie",
+        "phone": "844-873-1133",
+        "email": "lstobbie3n@acquirethisname.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 9,
+            "children": 4
+        },
+        "start": "2024-06-26",
+        "duration": 6,
+        "timed": true,
+        "height": 90,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Superior Room"
+        },
+        "end": "2024-07-01"
+    },
+    {
+        "id": 231788,
+        "name": "Hamnet Pagitt",
+        "phone": "221-208-5747",
+        "email": "hpagitt3o@amazon.de",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 9,
+            "children": 10
+        },
+        "start": "2024-05-09",
+        "duration": 6,
+        "timed": true,
+        "height": 70,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Grand Executive"
+        },
+        "end": "2024-05-11"
+    },
+    {
+        "id": 471355,
+        "name": "Calvin Holwell",
+        "phone": "723-959-6509",
+        "email": "cholwell3p@cbc.ca",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 10,
+            "children": 7
+        },
+        "start": "2024-05-16",
+        "duration": 5,
+        "timed": false,
+        "height": 88,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-05-17"
+    },
+    {
+        "id": 680600,
+        "name": "Worthy Lamers",
+        "phone": "692-410-2803",
+        "email": "wlamers3q@angelfire.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 0,
+            "children": 7
+        },
+        "start": "2024-05-13",
+        "duration": 7,
+        "timed": false,
+        "height": 60,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-05-18"
+    },
+    {
+        "id": 996172,
+        "name": "Boyce Tindall",
+        "phone": "245-194-2504",
+        "email": "btindall3r@unc.edu",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 4,
+            "children": 10
+        },
+        "start": "2024-06-30",
+        "duration": 5,
+        "timed": false,
+        "height": 71,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-07-03"
+    },
+    {
+        "id": 922634,
+        "name": "Harp Stealy",
+        "phone": "434-971-9524",
+        "email": "hstealy3s@taobao.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 0,
+            "children": 9
+        },
+        "start": "2024-07-08",
+        "duration": 1,
+        "timed": true,
+        "height": 6,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-07-15"
+    },
+    {
+        "id": 295370,
+        "name": "Clayton Hynam",
+        "phone": "885-775-6734",
+        "email": "chynam3t@homestead.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 1,
+            "children": 7
+        },
+        "start": "2024-07-19",
+        "duration": 10,
+        "timed": false,
+        "height": 76,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Signature Room"
+        },
+        "end": "2024-07-20"
+    },
+    {
+        "id": 839856,
+        "name": "Carney Wield",
+        "phone": "804-310-7031",
+        "email": "cwield3u@ucoz.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 1,
+            "children": 3
+        },
+        "start": "2024-06-19",
+        "duration": 0,
+        "timed": false,
+        "height": 11,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-06-24"
+    },
+    {
+        "id": 495743,
+        "name": "Edsel Meriot",
+        "phone": "434-717-1545",
+        "email": "emeriot3v@nsw.gov.au",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 3,
+            "children": 8
+        },
+        "start": "2024-07-07",
+        "duration": 4,
+        "timed": false,
+        "height": 72,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Boutique Room"
+        },
+        "end": "2024-07-09"
+    },
+    {
+        "id": 898412,
+        "name": "Moise Trudgeon",
+        "phone": "299-361-4081",
+        "email": "mtrudgeon3w@soundcloud.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 7,
+            "children": 2
+        },
+        "start": "2024-05-23",
+        "duration": 8,
+        "timed": true,
+        "height": 12,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-05-27"
+    },
+    {
+        "id": 892751,
+        "name": "Stinky Lakenton",
+        "phone": "860-504-4554",
+        "email": "slakenton3x@va.gov",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 10,
+            "children": 1
+        },
+        "start": "2024-05-27",
+        "duration": 1,
+        "timed": false,
+        "height": 2,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-05-31"
+    },
+    {
+        "id": 885963,
+        "name": "Hermann Miebes",
+        "phone": "551-651-2616",
+        "email": "hmiebes3y@zdnet.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 8,
+            "children": 5
+        },
+        "start": "2024-06-05",
+        "duration": 2,
+        "timed": false,
+        "height": 17,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-06-13"
+    },
+    {
+        "id": 829278,
+        "name": "Corey Carden",
+        "phone": "438-910-1897",
+        "email": "ccarden3z@printfriendly.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 7,
+            "children": 9
+        },
+        "start": "2024-07-23",
+        "duration": 7,
+        "timed": true,
+        "height": 97,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Premier Suite"
+        },
+        "end": "2024-07-29"
+    },
+    {
+        "id": 790600,
+        "name": "Jaquelyn Choake",
+        "phone": "520-824-9850",
+        "email": "jchoake40@mit.edu",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 3,
+            "children": 0
+        },
+        "start": "2024-06-26",
+        "duration": 5,
+        "timed": false,
+        "height": 76,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Superior Room"
+        },
+        "end": "2024-07-02"
+    },
+    {
+        "id": 81481,
+        "name": "Lem Roarty",
+        "phone": "229-874-9177",
+        "email": "lroarty41@comcast.net",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 2,
+            "children": 4
+        },
+        "start": "2024-07-05",
+        "duration": 2,
+        "timed": false,
+        "height": 32,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Grand Executive"
+        },
+        "end": "2024-07-10"
+    },
+    {
+        "id": 786500,
+        "name": "Ricardo Aers",
+        "phone": "582-193-1625",
+        "email": "raers42@blog.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 0
+        },
+        "start": "2024-05-30",
+        "duration": 8,
+        "timed": false,
+        "height": 9,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-06-02"
+    },
+    {
+        "id": 611449,
+        "name": "Delia Tindle",
+        "phone": "889-819-2222",
+        "email": "dtindle43@globo.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 9
+        },
+        "start": "2024-07-15",
+        "duration": 3,
+        "timed": true,
+        "height": 86,
+        "type": "booked",
+        "roomDetails": {
+            "id": 4,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-07-22"
+    },
+    {
+        "id": 889195,
+        "name": "Gweneth Kopec",
+        "phone": "656-304-2966",
+        "email": "gkopec44@posterous.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 10,
+            "children": 9
+        },
+        "start": "2024-06-05",
+        "duration": 7,
+        "timed": false,
+        "height": 26,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-06-12"
+    },
+    {
+        "id": 95978,
+        "name": "Ferguson Berrycloth",
+        "phone": "858-826-7242",
+        "email": "fberrycloth45@hexun.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 6,
+            "children": 4
+        },
+        "start": "2024-06-16",
+        "duration": 1,
+        "timed": true,
+        "height": 5,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-06-19"
+    },
+    {
+        "id": 423957,
+        "name": "Hillery Bernat",
+        "phone": "580-580-1065",
+        "email": "hbernat46@yellowbook.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 6,
+            "children": 5
+        },
+        "start": "2024-07-30",
+        "duration": 0,
+        "timed": true,
+        "height": 5,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Signature Room"
+        },
+        "end": "2024-08-02"
+    },
+    {
+        "id": 194024,
+        "name": "Briny Undrell",
+        "phone": "714-585-7345",
+        "email": "bundrell47@cargocollective.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 0,
+            "children": 2
+        },
+        "start": "2024-06-21",
+        "duration": 1,
+        "timed": false,
+        "height": 18,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-06-28"
+    },
+    {
+        "id": 351101,
+        "name": "Noll Oats",
+        "phone": "524-477-5872",
+        "email": "noats48@cnet.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 1,
+            "children": 5
+        },
+        "start": "2024-08-06",
+        "duration": 4,
+        "timed": false,
+        "height": 9,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Boutique Room"
+        },
+        "end": "2024-08-12"
+    },
+    {
+        "id": 282402,
+        "name": "Torey Roz",
+        "phone": "749-391-8993",
+        "email": "troz49@dion.ne.jp",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 7,
+            "children": 0
+        },
+        "start": "2024-05-19",
+        "duration": 0,
+        "timed": true,
+        "height": 48,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-05-21"
+    },
+    {
+        "id": 177910,
+        "name": "Uri Gillbee",
+        "phone": "851-453-1043",
+        "email": "ugillbee4a@aboutads.info",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 10,
+            "children": 5
+        },
+        "start": "2024-07-15",
+        "duration": 4,
+        "timed": false,
+        "height": 75,
+        "type": "booked",
+        "roomDetails": {
+            "id": 5,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-07-18"
+    },
+    {
+        "id": 235677,
+        "name": "Killy Snelle",
+        "phone": "846-325-9996",
+        "email": "ksnelle4b@addtoany.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 10,
+            "children": 9
+        },
+        "start": "2024-07-20",
+        "duration": 3,
+        "timed": false,
+        "height": 72,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-07-23"
+    },
+    {
+        "id": 30318,
+        "name": "Jasen Dahlback",
+        "phone": "465-217-4707",
+        "email": "jdahlback4c@bluehost.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 10,
+            "children": 1
+        },
+        "start": "2024-05-28",
+        "duration": 2,
+        "timed": true,
+        "height": 68,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Premier Suite"
+        },
+        "end": "2024-05-30"
+    },
+    {
+        "id": 821709,
+        "name": "Alexine Bisseker",
+        "phone": "766-415-7608",
+        "email": "abisseker4d@washington.edu",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 5,
+            "children": 7
+        },
+        "start": "2024-06-22",
+        "duration": 2,
+        "timed": false,
+        "height": 95,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Superior Room"
+        },
+        "end": "2024-06-26"
+    },
+    {
+        "id": 534380,
+        "name": "Fremont Ortes",
+        "phone": "735-817-9639",
+        "email": "fortes4e@goo.gl",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 5
+        },
+        "start": "2024-08-14",
+        "duration": 8,
+        "timed": false,
+        "height": 11,
+        "type": "available",
+        "roomDetails": {
+            "id": 1,
+            "name": "Grand Executive"
+        },
+        "end": "2024-08-17"
+    },
+    {
+        "id": 259430,
+        "name": "North Kerin",
+        "phone": "650-737-1406",
+        "email": "nkerin4f@illinois.edu",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 4,
+            "children": 2
+        },
+        "start": "2024-07-28",
+        "duration": 1,
+        "timed": true,
+        "height": 48,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-08-02"
+    },
+    {
+        "id": 865473,
+        "name": "Kenn O'Cullen",
+        "phone": "713-177-8785",
+        "email": "kocullen4g@walmart.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 6
+        },
+        "start": "2024-06-04",
+        "duration": 3,
+        "timed": true,
+        "height": 45,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-06-11"
+    },
+    {
+        "id": 402736,
+        "name": "Ric Skittrall",
+        "phone": "573-401-3834",
+        "email": "rskittrall4h@istockphoto.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 2,
+            "children": 0
+        },
+        "start": "2024-07-25",
+        "duration": 1,
+        "timed": true,
+        "height": 76,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-07-31"
+    },
+    {
+        "id": 68493,
+        "name": "Ephrayim Surcomb",
+        "phone": "316-475-8651",
+        "email": "esurcomb4i@cafepress.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 2,
+            "children": 8
+        },
+        "start": "2024-06-28",
+        "duration": 8,
+        "timed": true,
+        "height": 96,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-07-05"
+    },
+    {
+        "id": 796999,
+        "name": "Caren Loch",
+        "phone": "134-727-0306",
+        "email": "cloch4j@netvibes.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 10
+        },
+        "start": "2024-08-05",
+        "duration": 1,
+        "timed": true,
+        "height": 38,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Signature Room"
+        },
+        "end": "2024-08-12"
+    },
+    {
+        "id": 267093,
+        "name": "Charley Lie",
+        "phone": "364-185-4374",
+        "email": "clie4k@psu.edu",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 9
+        },
+        "start": "2024-08-08",
+        "duration": 5,
+        "timed": false,
+        "height": 82,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-08-12"
+    },
+    {
+        "id": 465512,
+        "name": "Kahaleel Takos",
+        "phone": "232-450-8694",
+        "email": "ktakos4l@domainmarket.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 5,
+            "children": 6
+        },
+        "start": "2024-08-18",
+        "duration": 7,
+        "timed": false,
+        "height": 38,
+        "type": "available",
+        "roomDetails": {
+            "id": 5,
+            "name": "Boutique Room"
+        },
+        "end": "2024-08-23"
+    },
+    {
+        "id": 211357,
+        "name": "Wilona Shilstone",
+        "phone": "392-624-9004",
+        "email": "wshilstone4m@mapquest.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 7,
+            "children": 9
+        },
+        "start": "2024-08-17",
+        "duration": 3,
+        "timed": true,
+        "height": 59,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-08-21"
+    },
+    {
+        "id": 355129,
+        "name": "Chaddy Klass",
+        "phone": "499-465-0543",
+        "email": "cklass4n@xing.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 10,
+            "children": 6
+        },
+        "start": "2024-06-13",
+        "duration": 2,
+        "timed": false,
+        "height": 35,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-06-19"
+    },
+    {
+        "id": 969422,
+        "name": "Marlie Crossthwaite",
+        "phone": "201-932-2581",
+        "email": "mcrossthwaite4o@springer.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 1,
+            "children": 3
+        },
+        "start": "2024-07-06",
+        "duration": 2,
+        "timed": true,
+        "height": 10,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-07-12"
+    },
+    {
+        "id": 886752,
+        "name": "Sharleen Bunnell",
+        "phone": "341-320-6285",
+        "email": "sbunnell4p@washington.edu",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 10,
+            "children": 10
+        },
+        "start": "2024-07-16",
+        "duration": 8,
+        "timed": false,
+        "height": 6,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Premier Suite"
+        },
+        "end": "2024-07-21"
+    },
+    {
+        "id": 496590,
+        "name": "Mikel Calrow",
+        "phone": "116-427-8025",
+        "email": "mcalrow4q@noaa.gov",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 4,
+            "children": 1
+        },
+        "start": "2024-08-22",
+        "duration": 9,
+        "timed": false,
+        "height": 90,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Superior Room"
+        },
+        "end": "2024-08-24"
+    },
+    {
+        "id": 877499,
+        "name": "Harland Putman",
+        "phone": "848-470-8921",
+        "email": "hputman4r@last.fm",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 7,
+            "children": 8
+        },
+        "start": "2024-07-28",
+        "duration": 6,
+        "timed": true,
+        "height": 25,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Grand Executive"
+        },
+        "end": "2024-08-05"
+    },
+    {
+        "id": 754854,
+        "name": "Chic Eyton",
+        "phone": "220-484-2763",
+        "email": "ceyton4s@huffingtonpost.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 4,
+            "children": 3
+        },
+        "start": "2024-06-22",
+        "duration": 1,
+        "timed": true,
+        "height": 31,
+        "type": "booked",
+        "roomDetails": {
+            "id": 2,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-06-23"
+    },
+    {
+        "id": 437262,
+        "name": "Nestor Alvares",
+        "phone": "321-140-7818",
+        "email": "nalvares4t@imageshack.us",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 6,
+            "children": 6
+        },
+        "start": "2024-08-31",
+        "duration": 1,
+        "timed": true,
+        "height": 33,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-09-06"
+    },
+    {
+        "id": 728496,
+        "name": "Ermanno McAughtry",
+        "phone": "481-991-1538",
+        "email": "emcaughtry4u@xing.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 2,
+            "children": 9
+        },
+        "start": "2024-08-31",
+        "duration": 1,
+        "timed": true,
+        "height": 70,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-09-04"
+    },
+    {
+        "id": 46804,
+        "name": "Helen-elizabeth Hamlin",
+        "phone": "967-849-7181",
+        "email": "hhamlin4v@redcross.org",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 1,
+            "children": 5
+        },
+        "start": "2024-09-13",
+        "duration": 9,
+        "timed": true,
+        "height": 19,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-09-20"
+    },
+    {
+        "id": 691183,
+        "name": "Rafael Melladew",
+        "phone": "555-743-0998",
+        "email": "rmelladew4w@gmpg.org",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 1,
+            "children": 10
+        },
+        "start": "2024-09-22",
+        "duration": 2,
+        "timed": true,
+        "height": 7,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 1,
+            "name": "Signature Room"
+        },
+        "end": "2024-09-26"
+    },
+    {
+        "id": 330430,
+        "name": "Janifer Scriven",
+        "phone": "295-817-3187",
+        "email": "jscriven4x@infoseek.co.jp",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 4,
+            "children": 10
+        },
+        "start": "2024-08-29",
+        "duration": 5,
+        "timed": true,
+        "height": 88,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-08-31"
+    },
+    {
+        "id": 458275,
+        "name": "Hilde Bebbington",
+        "phone": "198-898-4808",
+        "email": "hbebbington4y@fotki.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 1,
+            "children": 3
+        },
+        "start": "2024-09-03",
+        "duration": 8,
+        "timed": true,
+        "height": 99,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Boutique Room"
+        },
+        "end": "2024-09-09"
+    },
+    {
+        "id": 494569,
+        "name": "Shane Ligerton",
+        "phone": "979-217-5705",
+        "email": "sligerton4z@washington.edu",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 5,
+            "children": 9
+        },
+        "start": "2024-09-17",
+        "duration": 0,
+        "timed": true,
+        "height": 85,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-09-21"
+    },
+    {
+        "id": 925322,
+        "name": "Gordan Riditch",
+        "phone": "468-926-7557",
+        "email": "griditch50@bravesites.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 9,
+            "children": 8
+        },
+        "start": "2024-06-28",
+        "duration": 3,
+        "timed": true,
+        "height": 82,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-07-02"
+    },
+    {
+        "id": 324245,
+        "name": "Pattie Colgan",
+        "phone": "346-884-4749",
+        "email": "pcolgan51@bandcamp.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 0,
+            "children": 1
+        },
+        "start": "2024-07-05",
+        "duration": 1,
+        "timed": false,
+        "height": 93,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-07-08"
+    },
+    {
+        "id": 690374,
+        "name": "Freddy Nortcliffe",
+        "phone": "526-706-1405",
+        "email": "fnortcliffe52@omniture.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 4,
+            "children": 5
+        },
+        "start": "2024-09-30",
+        "duration": 5,
+        "timed": true,
+        "height": 84,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Premier Suite"
+        },
+        "end": "2024-10-02"
+    },
+    {
+        "id": 513068,
+        "name": "Car Alessandrucci",
+        "phone": "593-216-7473",
+        "email": "calessandrucci53@loc.gov",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 1,
+            "children": 1
+        },
+        "start": "2024-06-30",
+        "duration": 1,
+        "timed": false,
+        "height": 73,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 6,
+            "name": "Superior Room"
+        },
+        "end": "2024-07-07"
+    },
+    {
+        "id": 714236,
+        "name": "Delano Dury",
+        "phone": "374-969-9486",
+        "email": "ddury54@g.co",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 6,
+            "children": 2
+        },
+        "start": "2024-07-09",
+        "duration": 5,
+        "timed": false,
+        "height": 57,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 2,
+            "name": "Grand Executive"
+        },
+        "end": "2024-07-11"
+    },
+    {
+        "id": 995776,
+        "name": "Corrinne Bardnam",
+        "phone": "314-108-5756",
+        "email": "cbardnam55@cyberchimps.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 0,
+            "children": 8
+        },
+        "start": "2024-08-11",
+        "duration": 1,
+        "timed": false,
+        "height": 39,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-08-12"
+    },
+    {
+        "id": 644937,
+        "name": "Riobard Alfonsini",
+        "phone": "747-399-8310",
+        "email": "ralfonsini56@bing.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 0,
+            "children": 4
+        },
+        "start": "2024-09-27",
+        "duration": 5,
+        "timed": false,
+        "height": 97,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-09-28"
+    },
+    {
+        "id": 346782,
+        "name": "Willis Connochie",
+        "phone": "331-605-5629",
+        "email": "wconnochie57@hatena.ne.jp",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 1,
+            "children": 7
+        },
+        "start": "2024-10-02",
+        "duration": 5,
+        "timed": false,
+        "height": 34,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Presidential Suite"
+        },
+        "end": "2024-10-05"
+    },
+    {
+        "id": 922687,
+        "name": "Shirlene Cranshaw",
+        "phone": "446-804-0606",
+        "email": "scranshaw58@networkadvertising.org",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 7,
+            "children": 7
+        },
+        "start": "2024-09-09",
+        "duration": 6,
+        "timed": false,
+        "height": 7,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 5,
+            "name": "Elegant Suite"
+        },
+        "end": "2024-09-12"
+    },
+    {
+        "id": 802585,
+        "name": "Corette Cockshut",
+        "phone": "896-936-0856",
+        "email": "ccockshut59@fda.gov",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 6,
+            "children": 5
+        },
+        "start": "2024-07-17",
+        "duration": 8,
+        "timed": false,
+        "height": 54,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Signature Room"
+        },
+        "end": "2024-07-25"
+    },
+    {
+        "id": 144352,
+        "name": "Sanson Mantione",
+        "phone": "906-368-1210",
+        "email": "smantione5a@hao123.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 8,
+            "children": 8
+        },
+        "start": "2024-07-08",
+        "duration": 1,
+        "timed": false,
+        "height": 66,
+        "type": "available",
+        "roomDetails": {
+            "id": 6,
+            "name": "Panoramic Suite"
+        },
+        "end": "2024-07-11"
+    },
+    {
+        "id": 972132,
+        "name": "Atlanta Canacott",
+        "phone": "925-902-0912",
+        "email": "acanacott5b@scientificamerican.com",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 1,
+            "children": 6
+        },
+        "start": "2024-07-30",
+        "duration": 10,
+        "timed": true,
+        "height": 28,
+        "type": "booked",
+        "roomDetails": {
+            "id": 2,
+            "name": "Boutique Room"
+        },
+        "end": "2024-08-04"
+    },
+    {
+        "id": 603591,
+        "name": "Christophe Le Estut",
+        "phone": "916-109-7682",
+        "email": "cle5c@smugmug.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 8,
+            "children": 9
+        },
+        "start": "2024-10-10",
+        "duration": 0,
+        "timed": true,
+        "height": 72,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Ambassador Suite Regal Room"
+        },
+        "end": "2024-10-18"
+    },
+    {
+        "id": 936447,
+        "name": "Harrie Ipwell",
+        "phone": "696-401-7076",
+        "email": "hipwell5d@timesonline.co.uk",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 8,
+            "children": 3
+        },
+        "start": "2024-08-14",
+        "duration": 6,
+        "timed": true,
+        "height": 30,
+        "type": "available",
+        "roomDetails": {
+            "id": 3,
+            "name": "Penthouse Suite"
+        },
+        "end": "2024-08-19"
+    },
+    {
+        "id": 318820,
+        "name": "Jenilee Glamart",
+        "phone": "121-639-1355",
+        "email": "jglamart5e@mlb.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 8,
+            "children": 2
+        },
+        "start": "2024-10-08",
+        "duration": 1,
+        "timed": true,
+        "height": 52,
+        "type": "available",
+        "roomDetails": {
+            "id": 4,
+            "name": "Serene Retreat Royal Suite"
+        },
+        "end": "2024-10-12"
+    },
+    {
+        "id": 688688,
+        "name": "Rora Daunay",
+        "phone": "289-869-7169",
+        "email": "rdaunay5f@acquirethisname.com",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 7,
+            "children": 8
+        },
+        "start": "2024-07-19",
+        "duration": 10,
+        "timed": true,
+        "height": 73,
+        "type": "booked",
+        "roomDetails": {
+            "id": 6,
+            "name": "Premier Suite"
+        },
+        "end": "2024-07-20"
+    },
+    {
+        "id": 742248,
+        "name": "Tabbatha Davion",
+        "phone": "705-609-3189",
+        "email": "tdavion5g@sbwire.com",
+        "typeOfApartments": "חדר יחיד",
+        "guestInfo": {
+            "adults": 6,
+            "children": 1
+        },
+        "start": "2024-10-19",
+        "duration": 3,
+        "timed": false,
+        "height": 54,
+        "type": "unavailable",
+        "roomDetails": {
+            "id": 4,
+            "name": "Superior Room"
+        },
+        "end": "2024-10-27"
+    },
+    {
+        "id": 639845,
+        "name": "Auberta Ceeley",
+        "phone": "515-829-8869",
+        "email": "aceeley5h@samsung.com",
+        "typeOfApartments": "חדר זוגי",
+        "guestInfo": {
+            "adults": 4,
+            "children": 10
+        },
+        "start": "2024-10-20",
+        "duration": 2,
+        "timed": false,
+        "height": 44,
+        "type": "booked",
+        "roomDetails": {
+            "id": 1,
+            "name": "Grand Executive"
+        },
+        "end": "2024-10-23"
+    },
+    {
+        "id": 417918,
+        "name": "Sherwin Fenkel",
+        "phone": "943-288-0707",
+        "email": "sfenkel5i@senate.gov",
+        "typeOfApartments": "דירת נופש",
+        "guestInfo": {
+            "adults": 8,
+            "children": 3
+        },
+        "start": "2024-08-11",
+        "duration": 10,
+        "timed": true,
+        "height": 75,
+        "type": "available",
+        "roomDetails": {
+            "id": 2,
+            "name": "Suite Luxury"
+        },
+        "end": "2024-08-12"
+    },
+    {
+        "id": 252880,
+        "name": "Zane La Torre",
+        "phone": "899-544-1936",
+        "email": "zla5j@clickbank.net",
+        "typeOfApartments": "דירת אירוח",
+        "guestInfo": {
+            "adults": 4,
+            "children": 8
+        },
+        "start": "2024-08-22",
+        "duration": 6,
+        "timed": true,
+        "height": 78,
+        "type": "booked",
+        "roomDetails": {
+            "id": 3,
+            "name": "Suite Classic Room"
+        },
+        "end": "2024-08-28"
+    }
+]
